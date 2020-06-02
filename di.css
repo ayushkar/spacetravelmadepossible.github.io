@@ -1,0 +1,43 @@
+#services offered{
+	
+margin-top: 30px;	
+	
+	
+	
+}
+footer{
+	
+	margin-top: 50px;
+	background-color:black;
+	padding:20px;
+	colour:white;
+}
+button{
+	margin-top: 100px;
+}
+.footer-link a{
+	
+	color:#FFFFFF;
+	list-style: none;
+	text-emphasis-color: white;
+}
+#support{
+	
+	color:white;
+	
+}
+#links{
+	
+	color:white;
+}  
+*{
+	
+	font-family: montserrat;
+
+}
+h3{
+		font-size: 14px;
+}
+h2{
+	font-size: 17px;
+}
